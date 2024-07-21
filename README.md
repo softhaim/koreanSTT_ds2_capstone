@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-본 프로젝트는 실시간 한국어 음성 인식기능을 제공합니다.  
+해당 프로젝트는 실시간 한국어 음성 인식기능을 제공합니다.  
 
 Speech to Text (STT)와 관련한 모든 전처리, 모델, 학습 등은 [sooftware](https://github.com/sooftware)님께서 공유해주신 [Kospeech](https://github.com/sooftware/kospeech) 오픈소스를 사용했습니다.
 
@@ -23,7 +23,7 @@ CPU : Ryzen7 5700X
 Time cost : About 13.5 hours per an Epoch (Total 10 Epoch)  
 
 **Performance**  
-CER : 0.2536  
+CER : 0.25  
 
 ## 3. How to use?
 
